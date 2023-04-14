@@ -10,3 +10,6 @@ CodeX2 is an excellent choice for developers who are looking for a lightweight, 
 5. Customizable GUI: CodeX2 allows users to customize the editor's GUI with user-created extensions, enabling developers to create a personalized coding environment.
 
 In summary, CodeX2 is an excellent code editor with a range of features that make it a great choice for developers of all skill levels. Its simple interface, code snippets, syntax highlighting (in BETA), basic keyboard shortcuts, and customizable GUI all contribute to a seamless coding experience. If you're looking for a lightweight, user-friendly code editor, CodeX2 is definitely worth considering.
+
+# What if the code editor is not for me?
+The CodeX2 code editor is open-source, allowing developers to contribute to the project and improve the code editor's functionality. The repository provides detailed documentation and instructions on how to get started with CodeX2. Users can also report any issues they encounter while using CodeX2 or suggest new features to improve the editor. So if you do not like the current look of the editor consider leaving a suggestion that helps me bring the code editor towards your view.
