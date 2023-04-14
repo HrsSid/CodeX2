@@ -2,10 +2,8 @@
 In order to execute the program successfully you will need to meet the below requirements:
 1. Python version 3.10 and above. (make sure python is on path)
 2. Pip > `python get-pip.py`
-
-Essential Pip packages:
-1. tkinter > `pip install tkinter`
-2. ttkbootstrap > `python -m pip install ttkbootstrap`
+   * tkinter > `pip install tkinter`
+   * ttkbootstrap > `python -m pip install ttkbootstrap`
 
 After you installed the above double-click on the `main.py` file.
 
