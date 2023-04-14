@@ -1,2 +1,2 @@
-# An overview of CodeX2
+# What is CodeX2?
 CodeX2 is an open-source code editor designed to simplify coding and make it more accessible for developers. This Github repository provides a lightweight and user-friendly environment for developers to write and edit code with ease. CodeX2 is built with a minimalist user interface that allows users to focus on their code, without being distracted by unnecessary features. It is a great choice for beginners who are just starting out with coding or for developers who prefer a clean and straightforward code editor.
