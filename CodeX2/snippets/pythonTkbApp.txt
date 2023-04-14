@@ -1,0 +1,31 @@
+# Libraries & Modules
+from tkinter import *
+from tkinter.messagebox import *
+import ttkbootstrap as tb
+from ttkbootstrap.constants import *
+import ctypes, os
+
+#//
+
+# Code
+ctypes.windll.shcore.SetProcessDpiAwareness(True)
+class APPNAME():
+    window = tb.Window(themename="superhero")
+    window.resizable(False, False)
+    window.title("APPNAME")
+
+    WIDTH = 1080
+    HEIGHT = 600
+    x = int((window.winfo_screenwidth() / 2) - (WIDTH / 2))
+    y = int((window.winfo_screenheight() / 2) - (HEIGHT / 2))
+    window.geometry(f'{WIDTH}x{HEIGHT}+{x}+{y}')
+
+    def __init__(self):
+        # Making the area auto-resizable
+        self.window.grid_rowconfigure(0, weight=1)
+        self.window.grid_columnconfigure(0, weight=1)
+
+    def run(self):
+        self.window.mainloop()
+
+APPNAME().run()

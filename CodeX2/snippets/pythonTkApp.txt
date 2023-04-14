@@ -1,0 +1,18 @@
+# Libraries & Modules
+import tkinter
+import tkinter.ttk
+
+#// None
+
+# Main Program
+
+# Window Setup
+window = tkinter.Tk()
+window.title("Document")
+window.geometry("600x300")
+
+# Window Configuration
+
+
+# Window Running
+window.mainloop()

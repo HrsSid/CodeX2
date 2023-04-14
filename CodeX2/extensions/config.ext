@@ -1,0 +1,27 @@
+# font styles
+font.default.family = "Share Tech Mono"
+font.default.size = "12"
+
+# syntaxHighlighting styles
+syntaxHighlighting.default.mode = "False"
+
+# window styles
+window.default.size = "large"
+
+# treeview styles
+treeview.default.style = "default"
+
+# settings styles
+settingsButton.default.style = "warning-outline"
+
+# textArea styles
+textArea.default.foreground = "#ffffff"
+
+# cmd styles
+cmdEntry.default.style = "secondary"
+
+# open styles
+openButton.default.style = "info-outline"
+
+# save styles
+saveButton.default.style = "info-outline"
