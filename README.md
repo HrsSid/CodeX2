@@ -31,3 +31,11 @@ After you installed the above double-click on the `main.py` file.
 4. Window's Size Settings: opens a small window with tree buttons (1st button is small, 2nd is medium and 3rd is large)
 
 **Keyboard Shortcuts**
+
+`Ctrl+F`> Functionality Menu (Keyboard shortcut menu)
+
+`Ctrl+R`> Run file (windows command "start \*.\*")
+
+`Ctrl+S`> Insert Snippet
+
+`Alt+E`> Reload extensions (reload config.ext)
