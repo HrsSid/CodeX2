@@ -41,7 +41,7 @@ After you installed the above double-click on the `main.py` file.
 - Window's Size Settings: opens a small window with tree buttons (1st button is small, 2nd is medium and 3rd is large)
 </details>
 
-**Keyboard Shortcuts**
+# Keyboard Shortcuts
 
 `Ctrl+F`> Functionality Menu (Keyboard shortcut menu)
 
