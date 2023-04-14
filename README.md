@@ -8,4 +8,5 @@ CodeX2 is an excellent choice for developers who are looking for a lightweight, 
 3. Syntax highlighting (in BETA): CodeX2's syntax highlighting feature helps developers to identify different parts of their code quickly. While still in BETA, this feature is expected to improve the coding experience in the future.
 4. Basic keyboard shortcuts: CodeX2 comes equipped with basic keyboard shortcuts that make it easy to navigate and edit code quickly.
 5. Customizable GUI: CodeX2 allows users to customize the editor's GUI with user-created extensions, enabling developers to create a personalized coding environment.
+
 In summary, CodeX2 is an excellent code editor with a range of features that make it a great choice for developers of all skill levels. Its simple interface, code snippets, syntax highlighting (in BETA), basic keyboard shortcuts, and customizable GUI all contribute to a seamless coding experience. If you're looking for a lightweight, user-friendly code editor, CodeX2 is definitely worth considering.
