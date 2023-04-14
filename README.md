@@ -1,6 +1,6 @@
 # Getting started
 In order to execute the program successfully you will need to meet the below requirements:
-1. Python version 3.10 and above. (make sure python is on path) > [Download Python](https://www.python.org/downloads/)
+1. Python version 3.10 and above. (make sure python is on path) > [![Download Python](https://img.shields.io/badge/-Python-%23FFC300?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
 2. Pip > `python get-pip.py`
    * tkinter > `pip install tkinter`
    * ttkbootstrap > `python -m pip install ttkbootstrap`
